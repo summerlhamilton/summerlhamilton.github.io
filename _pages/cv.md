@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Christian Brothers University, 2000
+* M.A. in English, Southern Methodist University, 2010
+* Ph.D in English, Southern Methodist University, 2021
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Research Professor of Digital Scholarship (2022-present)
+* Digital Projects Designer for the Digital Liberal Arts Research Initiative (2022-present)
+  * The Pennsylvania State University, College of the Liberal Arts, Office of Digital Pedagogy and Initiatives
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* English Faculty (2015-2021)
+  * The Hockaday School
+
+* Associate Director of Financial Aid--Loans & Grants (2008-2010)
+* Senior Systems Analyst (2002-2010)
+  * Southern Methodist University 
   
-Skills
+<!--Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3-->
 
 Publications
 ======
@@ -47,13 +48,18 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
+
+<!--Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul>-->
   
-Service and leadership
+Service and Affiliations
 ======
-* Currently signed in to 43 different slack teams
+* Reporter, American Literature Association (ALA) Year in Conferences, for ESQ: A Journal of the American Renaissance. May 2015.
+
+* Session Chair, “Resistance and Representation in Diasporic Works.” College Language Association Convention. April 2015. Dallas, TX. 
+
+* Host Committee Member for College Language Association Convention, 2015. Dallas, TX.
+
